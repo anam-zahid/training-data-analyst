@@ -1,1 +1,1 @@
-gsutil cp gs://bdaproject123/altmetric.csv
+gsutil cp gs://bdaproject123/altmetric.csv .
